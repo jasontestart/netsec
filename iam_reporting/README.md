@@ -1,0 +1,1 @@
+Scripts to take Active Directory data (optionally multiple domains) via LDAP and Cisco Duo Security data via the Duo Admin API, and import into and PostgreSQL database. I find this handy as I can interogate this data with SQL, including joining AD and Duo data.
